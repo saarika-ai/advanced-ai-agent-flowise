@@ -33,7 +33,7 @@ based on user queries.
 ## Project Screenshots
 
 ### Advanced AI Agent Architecture
-![Architecture](flowise_canvas.png.png)
+![Architecture](agent_canvas_full.png.png)
 
 ### Multi-Tool Reasoning Output
 ![Output](OUTPUT.png)
